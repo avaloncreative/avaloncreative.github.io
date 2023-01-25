@@ -2,17 +2,16 @@
 title: Avalon
 subtitle: Event Design & Creative Direction
 email: avalon.creative.event@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "" # the subpath of your site, e.g. /blog
-#baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog. Used to be "/forty-jekyll-theme"
+
+description: Welcome to Avalon!
 author: Ilef Sebai
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+#street_address: 1234 Somewhere Road
+#city: Nashville
+#state: TN
+#zip_code: 55555
+#country: United States of America
+#phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -29,8 +28,6 @@ socials:
   Instagram:
   LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
   Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
 
 # build settings
 markdown: kramdown
@@ -40,6 +37,3 @@ sass:
 
 exclude:
 - "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
